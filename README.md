@@ -1,4 +1,4 @@
-# Big Workload ERP-CRM Integration Platform
+# Big Workload ERP-CRM Bidirectional Integration Platform
 
 A high-performance bidirectional data synchronization engine between Oracle ERP database and external CRM REST API. Built to handle enterprise-scale data volumes with real-time updates and comprehensive data integrity management.
 
